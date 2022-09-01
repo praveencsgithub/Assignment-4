@@ -1,0 +1,48 @@
+ul>li{
+    float:left;
+    list-style-type: none;
+}
+.list{
+    margin-left: 100px;
+    margin-top: 20px;
+
+}
+.button{
+    color: white;
+    background-color: rgb(92, 92, 179);
+    margin-left: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+.image{
+    float:right;
+
+}
+.heading{
+    color:rgb(94, 94, 146);
+    margin-top:50px;
+    margin-left: 100px;
+}
+.para{
+    color:grey;
+    margin-left:100px ;
+}
+span {
+    color:blue;
+}
+.button1{
+         margin-left: 100px;
+         color: white;
+         background-color:rgb(92, 92, 179);
+         margin-top: 15px;
+         padding-top: 10px;
+         padding-bottom: 10px;
+         padding-left: 15px;
+         padding-right: 15px;
+}
+
+
